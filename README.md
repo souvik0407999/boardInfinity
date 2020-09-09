@@ -21,7 +21,7 @@ like public repos, total number of following, total followers , public gists and
 * Installed one package called axios using the command "npm install axios" where axios is used to fetch data from the api to the webapge using HTTP GET REQUEST.
 * Created another file called Form.js where Form.js contains the modified version of Button.js. Here I've implemented a text box where one can write their username and when that      person hits enter then his/her profile information will get populated on the web-page.
   
-  Finally added some styling to make the UI look user-friendly....
+  Finally added some styling to make the UI look attractive and user-friendly....
   
  
   
