@@ -23,6 +23,8 @@ like public repos, total number of following, total followers , public gists and
   
   Finally added some styling to make the UI look attractive and user-friendly....
   
- 
+## Deployment
+![Screenshot (169)](https://user-images.githubusercontent.com/71004054/92627024-6e97d480-f2e8-11ea-9e46-becd430cda08.png)
+
   
 
