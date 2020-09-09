@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/boardInfinity/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/boardInfinity/static/js/main.a7d281cc.chunk.js",
+    "main.js.map": "/boardInfinity/static/js/main.a7d281cc.chunk.js.map",
+    "runtime-main.js": "/boardInfinity/static/js/runtime-main.b3472344.js",
+    "runtime-main.js.map": "/boardInfinity/static/js/runtime-main.b3472344.js.map",
+    "static/js/2.21d003cf.chunk.js": "/boardInfinity/static/js/2.21d003cf.chunk.js",
+    "static/js/2.21d003cf.chunk.js.map": "/boardInfinity/static/js/2.21d003cf.chunk.js.map",
+    "index.html": "/boardInfinity/index.html",
+    "precache-manifest.0ce52a907420a994d416a36641a12191.js": "/boardInfinity/precache-manifest.0ce52a907420a994d416a36641a12191.js",
+    "service-worker.js": "/boardInfinity/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/boardInfinity/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.21d003cf.chunk.js.LICENSE.txt": "/boardInfinity/static/js/2.21d003cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3472344.js",
+    "static/js/2.21d003cf.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a7d281cc.chunk.js"
+  ]
+}
